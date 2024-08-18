@@ -1,2 +1,2 @@
 Predictive Maintenance is a proactive maintenance strategy that utilizes data analysis and cutting-edge technologies to predict potential equipment failures before they occur. By collecting and analyzing real-time data from sensors, historical records, and other sources, predictive maintenance empowers us to anticipate issues and intervene at the right time.
-![image](https://github.com/user-attachments/assets/090ee9b9-a5a1-4d35-aede-a33ca5c24c67)
+
